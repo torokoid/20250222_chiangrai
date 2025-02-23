@@ -159,7 +159,7 @@ p.note { display: none; }
 <h2><span class="yellow">大きいヒナがいなくなった隙に、小さいヒナ達にご飯のおかわり</span></h2>
 <a href="20250222_011.JPG" target="_blank"><img src="20250222_011.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">先日完成した電波を出さないアマチュア無線で、日本の無線局と交信</span></h2>
+<h2><span class="yellow">先日完成した電波を出さないアマチュア無線システムで、日本の無線局と交信<br>お相手は横浜の局長さんで雪とのことでした</span></h2>
 <a href="20250222_012.JPG" target="_blank"><img src="20250222_012.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">こちらの画面では仮想空間の温泉でゆったりと世間話</span></h2>
